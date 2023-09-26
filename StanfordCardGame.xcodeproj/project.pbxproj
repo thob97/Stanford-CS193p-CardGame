@@ -17,6 +17,7 @@
 		01315F6A2AC0C73C002EEBF6 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01315F692AC0C73C002EEBF6 /* SwiftUIView.swift */; };
 		01315F6C2AC0C74B002EEBF6 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01315F6B2AC0C74B002EEBF6 /* ViewModel.swift */; };
 		01315F6E2AC0C759002EEBF6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01315F6D2AC0C759002EEBF6 /* Model.swift */; };
+		01315F702AC2B594002EEBF6 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01315F6F2AC2B594002EEBF6 /* AspectVGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		01315F692AC0C73C002EEBF6 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		01315F6B2AC0C74B002EEBF6 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		01315F6D2AC0C759002EEBF6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		01315F6F2AC2B594002EEBF6 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				01315F692AC0C73C002EEBF6 /* SwiftUIView.swift */,
 				01315F6B2AC0C74B002EEBF6 /* ViewModel.swift */,
 				01315F6D2AC0C759002EEBF6 /* Model.swift */,
+				01315F6F2AC2B594002EEBF6 /* AspectVGrid.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 			files = (
 				01315F6E2AC0C759002EEBF6 /* Model.swift in Sources */,
 				01315F3F2AC0C703002EEBF6 /* ContentView.swift in Sources */,
+				01315F702AC2B594002EEBF6 /* AspectVGrid.swift in Sources */,
 				01315F3D2AC0C703002EEBF6 /* StanfordCardGameApp.swift in Sources */,
 				01315F6C2AC0C74B002EEBF6 /* ViewModel.swift in Sources */,
 				01315F6A2AC0C73C002EEBF6 /* SwiftUIView.swift in Sources */,
